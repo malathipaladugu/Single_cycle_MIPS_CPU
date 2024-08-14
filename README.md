@@ -1,1 +1,2 @@
-# Single_cycle_MIPS_CPU
+Single_cycle_MIPS_CPU
+---------------------
